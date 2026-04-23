@@ -30,6 +30,8 @@
 
 ## Development
 
+This starter project was copied from https://github.com/SafdarJamal/crud-app
+
 To get a local copy of the code, clone it using git:
 
 ```
