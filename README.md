@@ -22,7 +22,7 @@ Your Vite + React Crypto app can be deployed live with just a few clicks.
    [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 3. On the Render page:
-   - Paste the repository URL you copied into the box that says "Repository URL".
+   - If you see your repository listed, just click the [Connect] button on the right, otherwise Paste the repository URL you copied into the box that says "Repository URL".
    - Click **Continue** or **Deploy**.
    - Wait 1–2 minutes for the build to finish.
 
