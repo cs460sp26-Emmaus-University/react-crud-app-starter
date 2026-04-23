@@ -4,6 +4,27 @@
   </a>
 </h1>
 
+🚀 Deploy to Render (One-Click)
+
+Your Vite + React Crypto app can be deployed live with just a few clicks.
+Easiest Way:
+
+    Copy your repository URL — it should look **something** like this:
+    https://github.com/cis-EU/react-crud-app-starter-YourGitHubUsername-crypto
+
+    Click the button below:
+
+    Deploy to Render
+
+    On the Render page:
+        Paste the repository URL you copied into the box that says "Repository URL".
+        Click Continue or Deploy.
+        Wait 1–2 minutes for the build to finish.
+
+    When it's done, click the live URL Render gives you (e.g. https://crypto-app-xxxx.onrender.com).
+
+Your app is now live on the internet!
+
 <p align="center">
   <a href="https://github.com/SafdarJamal/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
     <img src="https://github.com/SafdarJamal/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
@@ -31,6 +52,9 @@
 ## Development
 
 This starter project was copied from https://github.com/SafdarJamal/crud-app
+
+The instructions below demonstrate how to make your own copy of the original using command line tools.
+They are only included for reference.  Just deploy to render.com as you edit your code.
 
 To get a local copy of the code, clone it using git:
 
