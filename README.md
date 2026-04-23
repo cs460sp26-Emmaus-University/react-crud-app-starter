@@ -1,29 +1,35 @@
 <h1 align="center">
   <a href="https://safdarjamal.github.io/crud-app/">
-    CRUD App
+    the original CRUD App example
   </a>
 </h1>
-
+Your task is to modify this existing app demonstrating your javascript skills.
 🚀 Deploy to Render (One-Click)
 
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23327782&assignment_repo_type=AssignmentRepo)
+## 🚀 Deploy to Render (One-Click)
+
 Your Vite + React Crypto app can be deployed live with just a few clicks.
-Easiest Way:
 
-    Copy your repository URL — it should look **something** like this:
-    https://github.com/cis-EU/react-crud-app-starter-YourGitHubUsername-crypto
+### Easiest Way:
 
-    Click the button below:
+1. **Copy your repository URL** — it should look SOMETHING like this:  
+   `https://github.com/cis-EU/react-crud-app-starter-YourGitHubUsername-crypto`
 
-    Deploy to Render
+2. Click the button below:
 
-    On the Render page:
-        Paste the repository URL you copied into the box that says "Repository URL".
-        Click Continue or Deploy.
-        Wait 1–2 minutes for the build to finish.
+   [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
-    When it's done, click the live URL Render gives you (e.g. https://crypto-app-xxxx.onrender.com).
+3. On the Render page:
+   - Paste the repository URL you copied into the box that says "Repository URL".
+   - Click **Continue** or **Deploy**.
+   - Wait 1–2 minutes for the build to finish.
+
+4. When it's done, click the live URL Render gives you (e.g. `https://crypto-app-xxxx.onrender.com`).
 
 Your app is now live on the internet!
+
+> **Free Tier Note**: The site sleeps after ~15 minutes of no activity. Just refresh the page — it usually wakes up in 10–30 seconds.
 
 <p align="center">
   <a href="https://github.com/SafdarJamal/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
